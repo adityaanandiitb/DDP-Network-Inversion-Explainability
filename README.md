@@ -107,19 +107,6 @@ Applied the framework to medical decision making and diagnostic explanation gene
 
 ---
 
-## Repository Structure
-
-Network_Inversion/
-Explanation_Generation/
-Baseline_Methods/
-Experiment_Logs/
-Results/
-Publications/
-Reports/
-Presentations/
-
----
-
 ## Future Work
 
 * Quantitative faithfulness metrics
